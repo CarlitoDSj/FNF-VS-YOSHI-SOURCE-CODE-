@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPort.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf port1 10000" x="0" y="0" width="421" height="298"/>
+	<SubTexture name="bf port2 10000" x="421" y="0" width="406" height="286"/>
+	<SubTexture name="bf port3 10000" x="0" y="298" width="387" height="294"/>
+	<SubTexture name="bf port4 10000" x="387" y="298" width="408" height="287"/>
+</TextureAtlas>

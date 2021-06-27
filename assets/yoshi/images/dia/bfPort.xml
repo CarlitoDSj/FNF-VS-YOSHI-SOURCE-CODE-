@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPort.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf port 0000" x="0" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0000" x="421" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0001" x="421" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0002" x="842" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0003" x="842" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0004" x="1263" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0005" x="1263" y="0" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0006" x="0" y="316" width="421" height="316"/>
+	<SubTexture name="bf port 1 fade0007" x="421" y="316" width="0" height="0" frameX="0" frameY="34" frameWidth="421" frameHeight="316"/>
+	<SubTexture name="bf port 0001" x="421" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0000" x="421" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0001" x="421" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0002" x="827" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0003" x="827" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0004" x="1233" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0005" x="1233" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0006" x="1639" y="316" width="406" height="306"/>
+	<SubTexture name="bf port 2 fade0007" x="2045" y="316" width="0" height="0" frameX="0" frameY="0" frameWidth="406" frameHeight="306"/>
+	<SubTexture name="bf port 0002" x="0" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0000" x="0" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0001" x="0" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0002" x="387" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0003" x="387" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0004" x="774" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0005" x="774" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0006" x="1161" y="632" width="387" height="297"/>
+	<SubTexture name="bf port 3 fade0007" x="1548" y="632" width="0" height="0" frameX="29" frameY="26" frameWidth="387" frameHeight="297"/>
+	<SubTexture name="bf port 0003" x="1548" y="632" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0000" x="1548" y="632" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0001" x="1548" y="632" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0002" x="0" y="941" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0003" x="0" y="941" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0004" x="408" y="941" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0005" x="408" y="941" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0006" x="816" y="941" width="408" height="309"/>
+	<SubTexture name="bf port 4 fade0007" x="1224" y="941" width="0" height="0" frameX="0" frameY="0" frameWidth="408" frameHeight="309"/>
+</TextureAtlas>

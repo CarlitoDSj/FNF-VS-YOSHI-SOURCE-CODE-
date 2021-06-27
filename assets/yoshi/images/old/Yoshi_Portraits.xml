@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yoshi Portraits.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Portrait1 10000" x="0" y="0" width="516" height="924"/>
+	<SubTexture name="Portrait2 10000" x="516" y="0" width="536" height="936"/>
+	<SubTexture name="Portrait3 10000" x="1052" y="0" width="543" height="884"/>
+	<SubTexture name="Portrait4 10000" x="0" y="936" width="540" height="824"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yoshi Lines.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Yoshi Idle0000" x="0" y="0" width="440" height="607" frameX="0" frameY="-23" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0001" x="0" y="0" width="440" height="607" frameX="0" frameY="-23" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0002" x="440" y="0" width="432" height="609" frameX="-4" frameY="-21" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0003" x="440" y="0" width="432" height="609" frameX="-4" frameY="-21" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0004" x="0" y="609" width="431" height="617" frameX="-4" frameY="-13" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0005" x="0" y="609" width="431" height="617" frameX="-4" frameY="-13" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0006" x="431" y="609" width="431" height="627" frameX="-4" frameY="-3" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0007" x="431" y="609" width="431" height="627" frameX="-4" frameY="-3" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0008" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0009" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0010" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0011" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0012" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0013" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0014" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+	<SubTexture name="Yoshi Idle0015" x="0" y="1236" width="431" height="630" frameX="-4" frameY="0" frameWidth="440" frameHeight="630"/>
+</TextureAtlas>

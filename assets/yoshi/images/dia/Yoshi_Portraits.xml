@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Yoshi Portraits.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Portrait 10000" x="0" y="0" width="516" height="924"/>
+	<SubTexture name="Portrait 1 fade0000" x="516" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0001" x="516" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0002" x="944" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0003" x="944" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0004" x="1372" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0005" x="1372" y="0" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0006" x="0" y="924" width="428" height="766"/>
+	<SubTexture name="Portrait 1 fade0007" x="428" y="924" width="0" height="0" frameX="0" frameY="0" frameWidth="428" frameHeight="766"/>
+	<SubTexture name="Portrait 20000" x="428" y="924" width="536" height="936"/>
+	<SubTexture name="Portrait 2 fade0000" x="964" y="924" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0001" x="964" y="924" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0002" x="1408" y="924" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0003" x="1408" y="924" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0004" x="0" y="1860" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0005" x="0" y="1860" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0006" x="444" y="1860" width="444" height="776"/>
+	<SubTexture name="Portrait 2 fade0007" x="888" y="1860" width="0" height="0" frameX="0" frameY="0" frameWidth="444" frameHeight="776"/>
+	<SubTexture name="Portrait 30000" x="888" y="1860" width="543" height="884"/>
+	<SubTexture name="Portrait 3 fade0000" x="1431" y="1860" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0001" x="1431" y="1860" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0002" x="0" y="2744" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0003" x="0" y="2744" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0004" x="450" y="2744" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0005" x="450" y="2744" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0006" x="900" y="2744" width="450" height="733"/>
+	<SubTexture name="Portrait 3 fade0007" x="1350" y="2744" width="0" height="0" frameX="0" frameY="0" frameWidth="450" frameHeight="733"/>
+</TextureAtlas>

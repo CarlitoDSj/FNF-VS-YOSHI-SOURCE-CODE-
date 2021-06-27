@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dialogue Box.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dialogue Box0000" x="0" y="0" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0000" x="1825" y="0" width="315" height="81" frameX="-754" frameY="-191" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0001" x="2140" y="0" width="483" height="123" frameX="-670" frameY="-170" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0002" x="2623" y="0" width="651" height="167" frameX="-586" frameY="-148" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0003" x="3274" y="0" width="819" height="209" frameX="-502" frameY="-127" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0004" x="0" y="464" width="987" height="251" frameX="-418" frameY="-106" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0005" x="987" y="464" width="1155" height="295" frameX="-334" frameY="-84" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0006" x="2142" y="464" width="1322" height="337" frameX="-250" frameY="-63" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0007" x="0" y="801" width="1490" height="381" frameX="-166" frameY="-41" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0008" x="1490" y="801" width="1658" height="423" frameX="-82" frameY="-20" frameWidth="1825" frameHeight="464"/>
+	<SubTexture name="Dialogue Box open0009" x="0" y="1224" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0010" x="1825" y="1224" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0011" x="0" y="1688" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0012" x="1825" y="1688" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0013" x="0" y="2152" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0014" x="1825" y="2152" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0015" x="0" y="2616" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0016" x="1825" y="2616" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0017" x="0" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0018" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0019" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0020" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0021" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0022" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0023" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0024" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0025" x="1825" y="3080" width="1825" height="464"/>
+	<SubTexture name="Dialogue Box open0026" x="1825" y="3080" width="1825" height="464"/>
+</TextureAtlas>
