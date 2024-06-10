@@ -1,4 +1,4 @@
-name: Android Build
+name: Android Test
 on: workflow_dispatch
 jobs:
   Build:
@@ -30,7 +30,7 @@ jobs:
           haxe-version: 4.2.5
 
       - name: Restore Previous Cache
-        id: cache-debug-build-android-restore
+        id: yoshi-realese-build-android-restore
         uses: actions/cache/restore@main
         with:
           path: |
@@ -99,6 +99,6 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@main
         with:
-          name: ata
+          name: yoshi mobile
           path: export/release/android/bin/app/build/outputs/apk/debug
           if-no-files-found: warn
