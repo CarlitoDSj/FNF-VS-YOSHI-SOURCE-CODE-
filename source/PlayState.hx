@@ -1449,7 +1449,26 @@ class PlayState extends MusicBeatState
 	public static var songRate = 1.5;
 
 	override public function update(elapsed:Float)
-	{
+{
+    super.update(elapsed);
+
+    // Detecta toques na tela inteira
+    if (FlxG.mouse.justPressed()) {
+        trace("A tela foi tocada!");
+    }
+
+    // Detecta toques em áreas específicas para criar botões
+    if (FlxG.mouse.justPressed()) {
+        if (FlxG.mouse.x > 50 && FlxG.mouse.x < 150 && FlxG.mouse.y > 400 && FlxG.mouse.y < 500) {
+            trace("Seta para a esquerda foi tocada!");
+            pressArrow("left"); // Exemplo de função para setas
+        } else if (FlxG.mouse.x > 200 && FlxG.mouse.x < 300 && FlxG.mouse.y > 400 && FlxG.mouse.y < 500) {
+            trace("Seta para a direita foi tocada!");
+            pressArrow("right"); // Exemplo de função para setas
+        }
+    }
+}
+
 		#if !debug
 		perfectMode = false;
 		#end
